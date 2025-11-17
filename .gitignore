@@ -1,0 +1,5 @@
+# 忽略 Jupyter 的自动存档
+.ipynb_checkpoints/
+
+# (可选) 忽略 macOS 的系统垃圾文件
+.DS_Store
